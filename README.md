@@ -22,5 +22,6 @@ This project is about different home automation features that you can implement 
    - Firebase Functions: Google Assistant function + Android Push Notification function
 3. **Dialogflow**
    - Used to integrate Google Assistant commands with our Firebase RTDB.
-
+4. **Android App**
+   - Developed in JAVA for receving Push Notifications from Firebase.
   ---
