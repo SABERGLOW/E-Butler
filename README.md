@@ -1,5 +1,6 @@
-<p align="center">
-<h1> E-Butler </h1>
+<h1 align="center">E-Buler</h1>
+<p align="center"> Alfred ain't got shit on this... </p>
+
 <p>&nbsp;</p>
 
   ---
