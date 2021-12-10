@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">876746773928-c4jscod6m6vcf3f3sdr1ebolps0c5m8j.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://e-butler-01110111-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">876746773928</string>
+    <string name="google_api_key" translatable="false">AIzaSyBYJrd63r6L5QlJ6aXVzXdYNXa-zRhDnlk</string>
+    <string name="google_app_id" translatable="false">1:876746773928:android:406536d0718e16bb00399d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBYJrd63r6L5QlJ6aXVzXdYNXa-zRhDnlk</string>
+    <string name="google_storage_bucket" translatable="false">e-butler-01110111.appspot.com</string>
+    <string name="project_id" translatable="false">e-butler-01110111</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "876746773928",
+    "firebase_url": "",
+    "project_id": "e-butler-01110111",
+    "storage_bucket": "e-butler-01110111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876746773928:android:406536d0718e16bb00399d",
+        "android_client_info": {
+          "package_name": "com.saberglow.e_butler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84fr7csman44fvtkvd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saberglow.e_butler",
+            "certificate_hash": ""
+          }
+        },
+        {
+          "client_id": "876746773928-c4js3sdr1ebolps0c5m8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYJrd63r6L5QlJ6aXVzXdYNXa-zRhDnlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "bolps0c5m8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
